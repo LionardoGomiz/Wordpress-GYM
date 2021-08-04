@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a59afdd-6088-4c64-aef3-76682f957eb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1btvh2aRhGDEBmolEF9qwwQurq0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a59afdd-6088-4c64-aef3-76682f957eb1" name="Default Changelist" comment="" />
+      <created>1589464320026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589464320026</updated>
+      <workItem from="1589464323769" duration="50000" />
+      <workItem from="1590282381530" duration="644000" />
+      <workItem from="1590342708391" duration="14580000" />
+      <workItem from="1590421814464" duration="8259000" />
+      <workItem from="1590513008053" duration="13143000" />
+      <workItem from="1590586013554" duration="10945000" />
+      <workItem from="1590685857366" duration="1394000" />
+      <workItem from="1590763931408" duration="13927000" />
+      <workItem from="1590855474837" duration="5600000" />
+      <workItem from="1590938978886" duration="602000" />
+      <workItem from="1591032276035" duration="610000" />
+      <workItem from="1591104673667" duration="6713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1591117076971">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591117076971" />
+    <state x="555" y="343" key="NewPhpFileDialog" timestamp="1590855597545">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="555" y="343" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1590855597545" />
+    <state x="-8" y="-8" width="699" height="784" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590592869633">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-8" y="-8" width="699" height="784" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1590592869633" />
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1591104702945">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1591104702945" />
+  </component>
+</project>
